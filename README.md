@@ -161,7 +161,7 @@ A Demo application is at [https://statusfy.marquez.co][demo].
 
 ## Professional Support
 
-This project is sponsored by me, a Full Stack Developers. If you require Professional Assistance on your project(s), please contact me at [https://marquez.co][support-page].
+This project is sponsored by me, a Full Stack Developer. If you require Professional Assistance on your project(s), please contact me at [https://marquez.co][support-page].
 
 ## Contributing
 
